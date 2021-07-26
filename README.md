@@ -4,7 +4,7 @@
        title="Kudzo Essay" 
        author="Ron"
        banner="" 
-       layout="">
+       layout="vertical">
        
 Kudzu (/ˈkʊdzuː/; also called Japanese arrowroot or Chinese arrowroot) is a group of climbing, coiling, and trailing perennial vines native to much of East Asia, Southeast Asia, and some Pacific islands, but invasive in many parts of the world, primarily North America.
 
