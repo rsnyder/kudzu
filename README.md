@@ -6,8 +6,8 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kudzu_on_trees_in_Atlanta%2C_Georgia.jpg/1024px-Kudzu_on_trees_in_Atlanta%2C_Georgia.jpg" 
        layout="vertical">
 
-<param ve-entity id="Q15198502">  <!-- Kudzu -->
-<param ve-entity id="Q1428"> <!-- Georgia -->
+<param ve-entity eid="Q15198502">  <!-- Kudzu -->
+<param ve-entity eid="Q1428"> <!-- Georgia -->
        
 Kudzu (/ˈkʊdzuː/; also called Japanese arrowroot or Chinese arrowroot) is a group of climbing, coiling, and trailing perennial vines native to much of East Asia, Southeast Asia, and some Pacific islands, but invasive in many parts of the world, primarily North America, in states like Georgia.
 <param ve-map center="Q1428" zoom="6" prefer-geojson>
