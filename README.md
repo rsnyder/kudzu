@@ -20,4 +20,4 @@ The vine densely climbs over other plants and trees and grows so rapidly that it
 
 The vine densely climbs over other plants and trees and grows so rapidly that it smothers and kills them by blocking most of the sunlight. The plants are in the genus Pueraria, in the pea family Fabaceae, subfamily Faboideae. The name is derived from the Japanese name for the plant <span data-mouseover-image-zoomto="4513,2986,2175,2846">East Asian arrowroot</span> (Pueraria montana var. lobata), クズ or 葛 ('kuzu'). Where these plants are naturalized, they can be invasive and are considered noxious weeds. The plant is edible, but often sprayed with georgia herbicides.
 <param ve-map center="Q1428" zoom="4">
-<param ve-map-layer geojson url="test.json"> 
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/rsnyder/kudzu/main/test.json"> 
