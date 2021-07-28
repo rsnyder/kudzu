@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Foot",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dcd13528d2330092d6b226a5c7e7b06b3dcbaec1f20a07d31fa1771e337be5d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4602.82421875,15157.478515625,2536.67626953125,1663.5703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0e10fc16-77be-4daa-9ed4-d591259e0454"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Kudzu? ",
         "purpose": "commenting"
       }
